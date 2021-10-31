@@ -1,0 +1,15 @@
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.csproj.AssemblyReference.cache
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.AssemblyInfoInputs.cache
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.AssemblyInfo.cs
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\bin\Debug\net5.0\Hust.IT3940.Infrastructure.deps.json
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\bin\Debug\net5.0\Hust.IT3940.Infrastructure.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\bin\Debug\net5.0\ref\Hust.IT3940.Infrastructure.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\bin\Debug\net5.0\Hust.IT3940.Infrastructure.pdb
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\bin\Debug\net5.0\Hust.IT3940.AppCore.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\bin\Debug\net5.0\Hust.IT3940.AppCore.pdb
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.csproj.CopyComplete
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\ref\Hust.IT3940.Infrastructure.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.Infrastructure\obj\Debug\net5.0\Hust.IT3940.Infrastructure.pdb

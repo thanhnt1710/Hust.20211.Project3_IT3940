@@ -1,0 +1,13 @@
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\bin\Debug\net5.0\Hust.IT3940.AppCore.deps.json
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\bin\Debug\net5.0\Hust.IT3940.AppCore.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\bin\Debug\net5.0\ref\Hust.IT3940.AppCore.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\bin\Debug\net5.0\Hust.IT3940.AppCore.pdb
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.Properties.Resources.resources
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.csproj.GenerateResource.cache
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.AssemblyInfoInputs.cache
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.AssemblyInfo.cs
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.csproj.CoreCompileInputs.cache
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\ref\Hust.IT3940.AppCore.dll
+E:\Hust.20211\Project3_709166_IT3940\Hust.20211.Project3_IT3940\Backend\Hust.IT3940\Hust.IT3940.AppCore\obj\Debug\net5.0\Hust.IT3940.AppCore.pdb
